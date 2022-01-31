@@ -1,0 +1,1 @@
+AI.py to run aplication
